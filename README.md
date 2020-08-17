@@ -5,5 +5,5 @@ this method is commonly used in conjuction with the program evaluation and revie
 A critical path is determined by identifying the longest stretch of dependent activities and measuring
 the time required to complete them from start to finish.
 
-###Code author:
+### Code author:
 * Jonath Wesley Herdt
